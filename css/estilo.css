@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+body{
+    font-family: 'Lobster', cursive;    
+}
+
+.typeahead 
+{ 
+    border: 2px solid #FFF;
+    border-radius: 4px;
+    padding: 8px 12px;
+}
+.tt-menu 
+{ 
+    width:300px; 
+}
+ul.typeahead
+{
+    margin:0px;
+    padding:10px 0px;
+}
+    
+ul.typeahead.dropdown-menu li a 
+{
+    padding: 10px !important;	
+    border-bottom:#CCC 1px solid;
+    color:#FFF;
+}
+
+ul.typeahead.dropdown-menu li:last-child a 
+{ 
+    border-bottom:0px !important; 
+}
+    
+.planodefundo 
+{
+    background:url("../planodefundo.jpg") no-repeat center center;
+    border-radius:4px;text-align:center;
+}
+    
+.demo-label {
+    font-size:1.5em;
+    color: #686868;
+    font-weight: 500;
+    color:#FFF;
+}
+    
+.dropdown-menu>.active>a, .dropdown-menu>.active>a:focus, .dropdown-menu>.active>a:hover 
+{
+		text-decoration: none;
+		background-color: #1f3f41;
+        color:#000;
+		outline: 0;
+}
+.background{
+    background-color: #0c7ee9be
+  }

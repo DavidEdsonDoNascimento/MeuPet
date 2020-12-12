@@ -1,0 +1,7 @@
+* Tecnologias Utilizadas na confecção da aplicação Web *
+-HTML5 para criação das paginas web 
+-CSS3 para fazer o estilo das paginas web
+-PHP na versão 7.3.9 para o backend pois foi a tecnologia aprendida na faculdade e não requer instalações de IDE's pesadas para desenvolvimento
+-Em conjunto com PHP foi utilizada a linguagem de script Javascript e um de seus frameworks chamado JQuery para fazer as validações no front-end e criar animações nos elementos HTML
+-Banco de dados MariaDB 10.4.6 por se tratar de um software livre, com código-fonte aberto, ou seja, totalmente gratuito
+-Apache versão 2.4.41 para que as páginas da Internet requisitadas através de um browser sejam visualizadas por quem a requisitou em sua maquina
